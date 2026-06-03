@@ -1,93 +1,136 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> I'm Dipak Gupta</h1>
-<h3 align="center">AI&DS Engineer • Building Full Stack Projects • Solving Real World Problems</h3>
+<!-- Animated Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Dipak%20Gupta&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20•%20Software%20Developer%20•%20Machine%20Learning%20•%20DSA&descAlignY=58&descSize=18" />
+</p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=neeraj0608">
-    <img src="https://komarev.com/ghpvc/?username=dipakgupta2006&label=Profile%20views&color=00FFFF&style=flat-square" alt="dipakgupta's profile views" />
+  <a href="https://mrunknownportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-black?style=for-the-badge&logo=vercel" />
+  </a>
+  
+  <a href="https://github.com/DipakGupta2006">
+    <img src="https://img.shields.io/github/followers/DipakGupta2006?style=for-the-badge" />
+  </a>
+
+  <a href="https://leetcode.com/u/mrUnknown01/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+---
 
-## 📌 About Me
-- B.Tech student in Artificial Intelligence & Data Science (2024–2028) with CGPA: 9.42
-- Aspiring Software Engineer with strong interest in full-stack development & problem solving
-- Solved 400+ problems on LeetCode, building solid DSA foundation
-- Proficient in Java, C++, Python, C, SQL (with basic Dart knowledge)
-- Skilled in web development: HTML, CSS, JavaScript, Tailwind CSS, Flask
-- Hands-on experience in backend development & database integration (MySQL)
-- Built real-world projects like Portfolio Website, Voice Assistant, Password Manager, Employee Payroll and Bonus Calculations with Payslips Generation
-- Familiar with data analysis libraries: Pandas, NumPy, Matplotlib, Seaborn
-- Strong understanding of CS fundamentals: DBMS, Operating Systems, Computer Networks
-- Currently learning MERN stack & Machine Learning to align with industry trends
+## 🚀 About Me
 
+- 🎓 B.Tech in AI & Data Science
+- 💻 Building full-stack and ML-powered applications
+- ⚡ Focused on backend systems, APIs, and deployment
+- 🧠 Interested in machine learning, full-stack development 
+- 📦 Creating practical projects with clean UI and production-focused workflows
 
-## 🧠 My Focus Areas
-- Strengthening Data Structures & Algorithms (DSA) using C++
-- Building backend expertise with Express.js and MySQL
-- Mastering full-stack development (MERN stack)
-- Exploring Machine Learning fundamentals & real-world use cases
-- Developing scalable and secure web applications
-- Practicing problem-solving daily (LeetCode consistency)
-- Improving system design basics for real-world applications
-- Preparing for top tech placements (product-based companies) 🚀
+---
 
-
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-original.svg" alt="C++" width="40" />
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" />
-
-
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;&nbsp;
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
-</p>
-
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
-</p>
-
-
-![Top language](https://stats.pphat.top/languages?username=dipakgupta2006)
-<br/>
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/dipak-gupta-63896a347/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Dipak Gupta's LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="mailto:idipakgupta2006@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Dipak Gupta's Email"/></a>
-</p>
-
-## 💬 Quote
-> Complex problems don’t need more effort—they need better systems.
+## 🌐 Portfolio
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+  <a href="https://mrunknownportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit-Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
-</div>
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ML / Data Science
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
+### Template Engines
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
+![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white)
+
+### Deployment & Tools
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-1D9FD7?style=for-the-badge&logo=pythonanywhere&logoColor=white)
+
+### Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 Coding Activity
+
+<p align="center">
+  <a href="https://leetcode.com/u/mrUnknown01/">
+    <img src="https://leetcard.jacoblin.cool/mrUnknown01?theme=dark&font=Ubuntu" />
+  </a>
+</p>
+
+---
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DipakGupta2006&show_icons=true&theme=tokyonight" />
+  
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DipakGupta2006&theme=tokyonight" />
+</p>
+
+---
+## 🎯 Current Focus
+
+- Mastering the MERN Stack Development
+- Strengthening Data Structures & Algorithms (DSA)
+- Learning Machine Learning and AI Concepts
+- Building Real-World Full Stack Projects
+- Preparing for Software Engineering Placements
+
+---
+
+## 🤝 Connect
+
+<p align="center">
+
+  <a href="https://mrunknownportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/DipakGupta2006" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/mrUnknown01/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/dipak-gupta-63896a347/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+</p>
