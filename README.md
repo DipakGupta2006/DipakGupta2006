@@ -94,15 +94,6 @@
 </p>
 
 ---
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DipakGupta2006&show_icons=true&theme=tokyonight" />
-  
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DipakGupta2006&theme=tokyonight" />
-</p>
-
----
 ## 🎯 Current Focus
 
 - Mastering the MERN Stack Development
